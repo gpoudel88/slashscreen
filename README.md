@@ -1,4 +1,10 @@
 # plant3r_splashscreen
+for Android user
+# Goto
+android\app\src\main\res\drawable
+upload splash Screen logo in drawable and set logo value in launch_background
+
+
 
 A new Flutter project.
 
